@@ -1,0 +1,4 @@
+O tipo de dado será sempre o tipo do topo(no caso int),
+pois ambos os elementos e o topo estao no mesmo vetor,
+e dessa forma nao tem como haver por exemplo elementos do tipo char 
+e topo do tipo int.

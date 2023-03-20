@@ -1,0 +1,2 @@
+Os valores deletados sao preenchidos com -1 no lugar.
+Não deixar da forma -1 -1 -1 -1 -1 porque buga
